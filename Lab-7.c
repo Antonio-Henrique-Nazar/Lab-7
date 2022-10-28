@@ -25,7 +25,6 @@ void ImprimeBuffer(int n) {
     printf("%d ", Buffer[i]);
   }
   printf("\n");
-  sleep(1);
 }
 
 void Insere (int item, int id) {
